@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bsit20.github.io/hasibullah/sitemap.xml
